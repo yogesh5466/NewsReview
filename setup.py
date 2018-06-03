@@ -16,7 +16,7 @@ OPTIONS = {
         'CFBundleName': APP_NAME,
         'CFBundleDisplayName': APP_NAME,
         'CFBundleGetInfoString': "news review appilication",
-        'CFBundleIdentifier': "com.metachris.osx.News Review",
+        'CFBundleIdentifier': "com.YogeshM.News Review",
         'CFBundleVersion': "0.1.0",
         'CFBundleShortVersionString': "0.1.0",
         'NSHumanReadableCopyright': u"Yogesh M"
